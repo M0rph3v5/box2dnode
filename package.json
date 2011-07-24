@@ -1,0 +1,13 @@
+{
+	"name" : "box2dnode",
+	"version" : "2.0.0",
+	"description" : "2D physics engine",
+	"homepage" : "http://github.com/m0rph3v5/box2dnode",
+	"author": {
+		"name" : "Benjamin de Jager",
+		"email" : "m0rph3v5@gmail.com",
+		"url" : "http://m0rph3v5.com/"
+	},
+	"main" : "./Box2D",
+	"engines" : ["node"]
+}
