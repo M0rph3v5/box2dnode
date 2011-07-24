@@ -4,6 +4,14 @@
 
 A port of the latest box2djs library into a node module.
 
+## How to install
+
+```js
+
+npm install box2dnode
+
+```
+
 ## How to use
 
 A simple example below, you can check the documentation of box2d itself to do other stuff http://www.box2d.org/
