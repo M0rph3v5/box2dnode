@@ -1,3 +1,4 @@
+[![build status](https://secure.travis-ci.org/M0rph3v5/box2dnode.png)](http://travis-ci.org/M0rph3v5/box2dnode)
 # Box2DNode
 
 @author Benjamin de Jager <m0rph3v5@gmail.com>
